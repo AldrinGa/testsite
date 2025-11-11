@@ -204,7 +204,7 @@ height: 17rem;
 }
 
 .containerz h1{
-font-size: 50px;
+font-size: 40px;
 }
 
 }
@@ -567,5 +567,6 @@ position: relative;
     gap: 0.8rem;
     align-items: center;
   }
+
 
 }
